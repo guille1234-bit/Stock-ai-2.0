@@ -1,0 +1,6 @@
+{
+  "name": "Stock AI",
+  "description": "Control inteligente para tu negocio: Gestión de stock, ventas, compras, gastos, ganancias y análisis con IA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
